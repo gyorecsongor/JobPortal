@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "jobportal-534e3": {
+      "hosting": {
+        "JobPortal": [
+          "jobportal-534e3"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "jobportal-534e3"
+  }
+}
